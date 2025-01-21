@@ -3,13 +3,13 @@
 A theme for [Ulauncher](https://github.com/Ulauncher/Ulauncher) based on the [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) color scheme and the [Ulaucher Gruvbox theme](https://github.com/SylEleuth/ulauncher-gruvbox).
 
 ## Dark Soft
-![dark_soft](https://user-images.githubusercontent.com/57065994/156227173-9e942f65-00f4-4110-be40-9f1770fdebde.png)
+![ulauncher dark_soft](https://raw.githubusercontent.com/rahulpeacock/ulauncher-gruvbox-material/refs/heads/master/assets/ulauncher-gruvbox-material-dark-soft.png)
 
 ## Dark Medium
-![ulauncher_gruvbox_material](https://user-images.githubusercontent.com/57065994/153770368-3fe87554-c40a-48f3-bbb6-3fbc95001218.png)
+![ulauncher_dark_medium](https://raw.githubusercontent.com/rahulpeacock/ulauncher-gruvbox-material/refs/heads/master/assets/ulauncher-gruvbox-material-dark-medium.png)
 
 ## Dark Hard
-![dark_hard](https://user-images.githubusercontent.com/57065994/161388754-e1025ed9-8b53-4464-b05c-dca4995fae11.png)
+![ulauncher dark_hard](https://raw.githubusercontent.com/rahulpeacock/ulauncher-gruvbox-material/refs/heads/master/assets/ulauncher-gruvbox-material-dark-hard.png)
 
 ## Installation
 
